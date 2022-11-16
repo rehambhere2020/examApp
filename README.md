@@ -26,3 +26,20 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.io/cli) page.
 # examApp
+this app by doctor , this doctor create app system to build exam by diffren subject for student and can add delete exam and see all degree for all student depend subject , and allow student register for this app and choose subject and exam 
+
+
+################################################
+-login studunt and doctor 
+-register student
+- Determine All Permissions 
+-create new Exam
+-Display all Quastion
+-list all subject and Delete Sub
+-List All Questions With Users Roles 
+-Display Student Result
+-Add Result To DB
+-Check Student Data
+-List All Students With Degrees 
+- validation 
+
