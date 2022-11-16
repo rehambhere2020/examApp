@@ -30,8 +30,8 @@ this app by doctor , this doctor create app system to build exam by diffren subj
 
 
 ################################################
--login studunt and doctor 
--register student
+* login studunt and doctor 
+- register student
 - Determine All Permissions 
 -create new Exam
 -Display all Quastion
