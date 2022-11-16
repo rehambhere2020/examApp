@@ -33,13 +33,13 @@ this app by doctor , this doctor create app system to build exam by diffren subj
 * login studunt and doctor 
 - register student
 - Determine All Permissions 
--create new Exam
--Display all Quastion
--list all subject and Delete Sub
--List All Questions With Users Roles 
--Display Student Result
--Add Result To DB
--Check Student Data
--List All Students With Degrees 
+- create new Exam
+- Display all Quastion
+- list all subject and Delete Sub
+- List All Questions With Users Roles 
+- Display Student Result
+- Add Result To DB
+- Check Student Data
+- List All Students With Degrees 
 - validation 
 
